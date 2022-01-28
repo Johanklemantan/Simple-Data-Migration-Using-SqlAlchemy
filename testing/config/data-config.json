@@ -1,0 +1,10 @@
+{
+  "driver": "mysql+mysqldb://",
+  "username": "root",
+  "password": ${diganti aja ini nanti med.
+  },
+  "host": "localhost",
+  "port": "3306",
+  "database": ${bebas namanya mau apa.
+  }
+}
